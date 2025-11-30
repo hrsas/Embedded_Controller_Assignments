@@ -12,7 +12,7 @@ No interrupts are used.
 - `wokwi/wokwi-project.txt` → Wokwi simulation metadata  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_LINK_2)
+[Open in Wokwi](https://wokwi.com/projects/448962699841662977)
 
 **Steps to Run:**  
 1. Open the code in Wokwi.  

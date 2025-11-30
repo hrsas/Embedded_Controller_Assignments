@@ -9,7 +9,7 @@ Use **Timer-1** to blink the **Red LED** connected to **Pin 0 of Port A** at a *
 - `wokwi/wokwi-project.txt` → Simulation configuration and reference  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_LINK_1)
+[Open in Wokwi](https://wokwi.com/projects/448962579063515137)
 
 **Steps to Run:**  
 1. Open `sketch.ino` in Wokwi.  

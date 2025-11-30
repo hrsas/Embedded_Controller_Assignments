@@ -13,7 +13,7 @@ No interrupts are to be used.
 - `wokwi/wokwi-project.txt` → Simulation configuration  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_LINK_3)
+[Open in Wokwi](https://wokwi.com/projects/448962976406765569)
 
 **Steps to Run:**  
 1. Open `sketch.ino` in Wokwi.  
