@@ -12,7 +12,7 @@ Use **three timer interrupts**, each controlling one LED:
 - `wokwi/wokwi-project.txt` → Simulation information  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_3)
+[Open in Wokwi](https://wokwi.com/projects/448957314822337537)
 
 **Steps to Run:**  
 1. Open the Wokwi project.  

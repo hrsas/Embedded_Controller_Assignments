@@ -18,7 +18,7 @@ Only when the switch is pressed **5 times**, invert the blinking intervals:
 - `wokwi/wokwi-project.txt` → Interrupt configuration  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_6)
+[Open in Wokwi](https://wokwi.com/projects/448959251570738177)
 
 **Steps to Run:**  
 1. Load project into Wokwi.  

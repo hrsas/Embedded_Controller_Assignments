@@ -17,7 +17,7 @@ Enhance Problem 4 by also using **interrupt for the switch** (PB0 external inter
 - `wokwi/wokwi-project.txt` → ISR configuration details  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_5)
+[Open in Wokwi](https://wokwi.com/projects/448961485617758209)
 
 **Steps to Run:**  
 1. Open simulation.  

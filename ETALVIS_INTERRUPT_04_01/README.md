@@ -10,7 +10,7 @@ LED toggling must occur **inside the Timer-1 ISR**.
 - `wokwi/wokwi-project.txt` → Simulation info  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_1)
+[Open in Wokwi](https://wokwi.com/projects/446853203184551937)
 
 **Steps to Run:**  
 1. Open the sketch in Wokwi.  

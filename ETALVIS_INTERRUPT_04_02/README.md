@@ -11,7 +11,7 @@ Use **two separate timers with interrupts**:
 - `wokwi/wokwi-project.txt` → Project metadata  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_2)
+[Open in Wokwi](https://wokwi.com/projects/447082042200983553)
 
 **Steps to Run:**  
 1. Upload `sketch.ino` to Wokwi.  

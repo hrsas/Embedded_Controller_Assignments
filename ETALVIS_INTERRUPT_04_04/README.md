@@ -17,7 +17,7 @@ Use **Timer-1 and Timer-2 interrupts** for blinking LEDs, and a **switch on PB0 
 - `wokwi/wokwi-project.txt` → Simulation reference  
 
 **Simulation Link :**  
-[Open in Wokwi](https://wokwi.com/projects/PLACEHOLDER_INT_4)
+[Open in Wokwi](https://wokwi.com/projects/448957937091447809)
 
 **Steps to Run:**  
 1. Load project in Wokwi.  
