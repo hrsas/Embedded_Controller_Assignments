@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "author": "Harshvardhan R",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-mega", "id": "mega", "top": -28.2, "left": -90, "attrs": {} },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc1",
+      "top": 60.2,
+      "left": 316.2,
+      "attrs": {}
+    },
+    { "type": "wokwi-ks2e-m-dc5", "id": "relay1", "top": -206.7, "left": 90.5, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -99.6,
+      "left": 51.8,
+      "attrs": { "color": "blue" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": -129.6,
+      "left": 76.25,
+      "rotate": 90,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "ntc1:GND", "mega:GND.5", "black", [ "v76.8", "h-256.6" ] ],
+    [ "ntc1:OUT", "mega:A8", "green", [ "v67.1", "h-337.35" ] ],
+    [ "ntc1:VCC", "mega:VIN", "red", [ "v96", "h-434.1" ] ],
+    [ "mega:GND.1", "relay1:COIL2", "black", [ "v-201.6", "h134.2" ] ],
+    [
+      "relay1:COIL1",
+      "mega:A0",
+      "green",
+      [ "v10.8", "h17.9", "v-76.8", "h-288", "v441.6", "h230.4" ]
+    ],
+    [ "mega:VIN", "relay1:P1", "red", [ "v-185.1", "h40.5" ] ],
+    [ "mega:GND.1", "led1:C", "black", [ "v-28.8", "h38.2" ] ],
+    [ "led1:A", "r1:2", "green", [ "v0", "h28.8" ] ],
+    [ "r1:1", "relay1:NO1", "green", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
